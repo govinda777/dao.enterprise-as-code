@@ -1,5 +1,7 @@
 ## DAO Enterprise as code
 
+https://github.com/govinda777/blog/blob/main/Agil_Entendendo_Seu_Comportamento-pt.md
+
 Objetivo: 
 
 > Técnico
